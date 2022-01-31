@@ -1,0 +1,8 @@
+.pockemonCard {
+    padding: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: #ABCFFF;
+}

@@ -1,0 +1,5 @@
+.pockemonsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 10rem);
+  gap: 1rem;
+}

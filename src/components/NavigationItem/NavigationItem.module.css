@@ -1,0 +1,18 @@
+.navigationItem{
+    padding: 1.2rem 3rem;
+
+    font-size: 1.5rem;
+    text-decoration: none;
+
+    color: #FFEECB;
+}
+
+.activeNavigationItem {
+    padding: 1.2rem 3rem;
+
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+
+    color: #FFFFFF;
+}

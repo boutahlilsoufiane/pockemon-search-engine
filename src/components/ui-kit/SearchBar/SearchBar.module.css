@@ -1,0 +1,38 @@
+.searchBar {
+    display: flex;
+    border: 1px solid #bdb8b8;
+    height: 4rem;
+    padding: 1rem 0.5rem;
+    
+    border-radius: 4px;
+}
+
+.searchInput {
+  width: 90%;
+  border: none;
+  padding: 0.7rem 1rem;
+  border-radius: 4rem;
+
+  background-color: #ffffff;
+  color: #bdb8b8;
+
+  font-family: inherit;
+  font-style: inherit;
+}
+
+.searchInput::-webkit-input-placeholder {
+  color: #bdb8b8;
+}
+
+.searchButton {
+  border: none;
+
+  background-color: transparent;
+}
+
+.searchIcon {
+  height: 2rem;
+  width: 2rem;
+
+  fill: #ffffff;
+}
